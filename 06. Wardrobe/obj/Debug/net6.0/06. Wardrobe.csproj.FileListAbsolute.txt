@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/06. Wardrobe/bin/Debug/net6.0/06. Wardrobe
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/06. Wardrobe/bin/Debug/net6.0/06. Wardrobe.deps.json
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/06. Wardrobe/bin/Debug/net6.0/06. Wardrobe.runtimeconfig.json
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/06. Wardrobe/bin/Debug/net6.0/06. Wardrobe.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/06. Wardrobe/bin/Debug/net6.0/06. Wardrobe.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/06. Wardrobe/obj/Debug/net6.0/06. Wardrobe.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/06. Wardrobe/obj/Debug/net6.0/06. Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/06. Wardrobe/obj/Debug/net6.0/06. Wardrobe.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/06. Wardrobe/obj/Debug/net6.0/06. Wardrobe.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/06. Wardrobe/obj/Debug/net6.0/06. Wardrobe.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/06. Wardrobe/obj/Debug/net6.0/06. Wardrobe.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/06. Wardrobe/obj/Debug/net6.0/refint/06. Wardrobe.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/06. Wardrobe/obj/Debug/net6.0/06. Wardrobe.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/06. Wardrobe/obj/Debug/net6.0/06. Wardrobe.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/06. Wardrobe/obj/Debug/net6.0/ref/06. Wardrobe.dll

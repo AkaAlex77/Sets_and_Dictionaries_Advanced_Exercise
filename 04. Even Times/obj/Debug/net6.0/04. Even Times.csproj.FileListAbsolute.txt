@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/04. Even Times/bin/Debug/net6.0/04. Even Times
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/04. Even Times/bin/Debug/net6.0/04. Even Times.deps.json
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/04. Even Times/bin/Debug/net6.0/04. Even Times.runtimeconfig.json
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/04. Even Times/bin/Debug/net6.0/04. Even Times.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/04. Even Times/bin/Debug/net6.0/04. Even Times.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/04. Even Times/obj/Debug/net6.0/04. Even Times.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/04. Even Times/obj/Debug/net6.0/04. Even Times.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/04. Even Times/obj/Debug/net6.0/04. Even Times.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/04. Even Times/obj/Debug/net6.0/04. Even Times.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/04. Even Times/obj/Debug/net6.0/04. Even Times.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/04. Even Times/obj/Debug/net6.0/04. Even Times.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/04. Even Times/obj/Debug/net6.0/refint/04. Even Times.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/04. Even Times/obj/Debug/net6.0/04. Even Times.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/04. Even Times/obj/Debug/net6.0/04. Even Times.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/04. Even Times/obj/Debug/net6.0/ref/04. Even Times.dll

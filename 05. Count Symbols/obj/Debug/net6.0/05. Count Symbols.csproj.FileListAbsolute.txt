@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/05. Count Symbols/bin/Debug/net6.0/05. Count Symbols
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/05. Count Symbols/bin/Debug/net6.0/05. Count Symbols.deps.json
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/05. Count Symbols/bin/Debug/net6.0/05. Count Symbols.runtimeconfig.json
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/05. Count Symbols/bin/Debug/net6.0/05. Count Symbols.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/05. Count Symbols/bin/Debug/net6.0/05. Count Symbols.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/05. Count Symbols/obj/Debug/net6.0/05. Count Symbols.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/05. Count Symbols/obj/Debug/net6.0/05. Count Symbols.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/05. Count Symbols/obj/Debug/net6.0/05. Count Symbols.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/05. Count Symbols/obj/Debug/net6.0/05. Count Symbols.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/05. Count Symbols/obj/Debug/net6.0/05. Count Symbols.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/05. Count Symbols/obj/Debug/net6.0/05. Count Symbols.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/05. Count Symbols/obj/Debug/net6.0/refint/05. Count Symbols.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/05. Count Symbols/obj/Debug/net6.0/05. Count Symbols.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/05. Count Symbols/obj/Debug/net6.0/05. Count Symbols.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/05. Count Symbols/obj/Debug/net6.0/ref/05. Count Symbols.dll

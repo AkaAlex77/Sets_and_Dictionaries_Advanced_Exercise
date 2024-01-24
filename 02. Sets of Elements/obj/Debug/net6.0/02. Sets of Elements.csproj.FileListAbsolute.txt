@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/02. Sets of Elements/bin/Debug/net6.0/02. Sets of Elements
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/02. Sets of Elements/bin/Debug/net6.0/02. Sets of Elements.deps.json
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/02. Sets of Elements/bin/Debug/net6.0/02. Sets of Elements.runtimeconfig.json
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/02. Sets of Elements/bin/Debug/net6.0/02. Sets of Elements.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/02. Sets of Elements/bin/Debug/net6.0/02. Sets of Elements.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/02. Sets of Elements/obj/Debug/net6.0/02. Sets of Elements.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/02. Sets of Elements/obj/Debug/net6.0/02. Sets of Elements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/02. Sets of Elements/obj/Debug/net6.0/02. Sets of Elements.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/02. Sets of Elements/obj/Debug/net6.0/02. Sets of Elements.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/02. Sets of Elements/obj/Debug/net6.0/02. Sets of Elements.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/02. Sets of Elements/obj/Debug/net6.0/02. Sets of Elements.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/02. Sets of Elements/obj/Debug/net6.0/refint/02. Sets of Elements.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/02. Sets of Elements/obj/Debug/net6.0/02. Sets of Elements.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/02. Sets of Elements/obj/Debug/net6.0/02. Sets of Elements.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/02. Sets of Elements/obj/Debug/net6.0/ref/02. Sets of Elements.dll

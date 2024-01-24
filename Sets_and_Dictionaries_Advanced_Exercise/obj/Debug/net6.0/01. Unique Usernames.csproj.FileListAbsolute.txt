@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/Sets_and_Dictionaries_Advanced_Exercise/bin/Debug/net6.0/01. Unique Usernames
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/Sets_and_Dictionaries_Advanced_Exercise/bin/Debug/net6.0/01. Unique Usernames.deps.json
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/Sets_and_Dictionaries_Advanced_Exercise/bin/Debug/net6.0/01. Unique Usernames.runtimeconfig.json
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/Sets_and_Dictionaries_Advanced_Exercise/bin/Debug/net6.0/01. Unique Usernames.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/Sets_and_Dictionaries_Advanced_Exercise/bin/Debug/net6.0/01. Unique Usernames.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/Sets_and_Dictionaries_Advanced_Exercise/obj/Debug/net6.0/01. Unique Usernames.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/Sets_and_Dictionaries_Advanced_Exercise/obj/Debug/net6.0/01. Unique Usernames.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/Sets_and_Dictionaries_Advanced_Exercise/obj/Debug/net6.0/01. Unique Usernames.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/Sets_and_Dictionaries_Advanced_Exercise/obj/Debug/net6.0/01. Unique Usernames.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/Sets_and_Dictionaries_Advanced_Exercise/obj/Debug/net6.0/01. Unique Usernames.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/Sets_and_Dictionaries_Advanced_Exercise/obj/Debug/net6.0/01. Unique Usernames.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/Sets_and_Dictionaries_Advanced_Exercise/obj/Debug/net6.0/refint/01. Unique Usernames.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/Sets_and_Dictionaries_Advanced_Exercise/obj/Debug/net6.0/01. Unique Usernames.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/Sets_and_Dictionaries_Advanced_Exercise/obj/Debug/net6.0/01. Unique Usernames.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/Sets_and_Dictionaries_Advanced_Exercise/obj/Debug/net6.0/ref/01. Unique Usernames.dll

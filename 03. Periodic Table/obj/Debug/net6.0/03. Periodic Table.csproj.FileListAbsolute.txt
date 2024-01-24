@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/03. Periodic Table/bin/Debug/net6.0/03. Periodic Table
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/03. Periodic Table/bin/Debug/net6.0/03. Periodic Table.deps.json
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/03. Periodic Table/bin/Debug/net6.0/03. Periodic Table.runtimeconfig.json
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/03. Periodic Table/bin/Debug/net6.0/03. Periodic Table.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/03. Periodic Table/bin/Debug/net6.0/03. Periodic Table.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/03. Periodic Table/obj/Debug/net6.0/03. Periodic Table.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/03. Periodic Table/obj/Debug/net6.0/03. Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/03. Periodic Table/obj/Debug/net6.0/03. Periodic Table.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/03. Periodic Table/obj/Debug/net6.0/03. Periodic Table.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/03. Periodic Table/obj/Debug/net6.0/03. Periodic Table.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/03. Periodic Table/obj/Debug/net6.0/03. Periodic Table.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/03. Periodic Table/obj/Debug/net6.0/refint/03. Periodic Table.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/03. Periodic Table/obj/Debug/net6.0/03. Periodic Table.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/03. Periodic Table/obj/Debug/net6.0/03. Periodic Table.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Sets_and_Dictionaries_Advanced_Exercise/03. Periodic Table/obj/Debug/net6.0/ref/03. Periodic Table.dll
